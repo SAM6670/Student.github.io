@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deloitte Interview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .highlight {
+            background-color: yellow;
+            color: red;
+        }
+
+        .sticker {
+            margin-top: 20px;
+        }
+
+        a {
+            color: blue;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: darkblue;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Deloitte Interview</h1>
+    <p>
+        Welcome to the <span class="highlight">Deloitte Interview</span> preparation page! 
+        Get ready to ace your interview with some tips and tricks. Also, don't forget to relax and have a little fun.
+    </p>
+    <img class="sticker" src="https://i.imgur.com/VJg1X5s.png" alt="Funny Sticker" width="300" />
+
+    <p>Need more help? Check out the <a href="https://www.google.com" target="_blank">Google search page</a> for additional resources.</p>
+</body>
+
+</html>
